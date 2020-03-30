@@ -28,7 +28,7 @@ You will need one MySQL database with valid user, password and hostname handy du
 
 **WINDOWS RECOMMENDED LINKS**
 
-#. PHP 5.6 for Windows Server `64-bit <http://windows.php.net/download#php-5.6-nts-VC11-x64>`__ | `32-bit <http://windows.php.net/download#php-5.6-nts-VC11-x86>`__
+#. PHP 7.0 for Windows Server `64-bit <https://windows.php.net/downloads/releases/archives/php-7.0.0-nts-Win32-VC14-x64.zip>`__ | `32-bit <https://windows.php.net/downloads/releases/archives/php-7.0.0-nts-Win32-VC14-x86.zip>`__
 #. MariaDB 5.5 for Windows Server `64-bit <https://downloads.mariadb.com/MariaDB/mariadb-5.5.65/winx64-packages/mariadb-5.5.65-winx64.msi>`__ | `32-bit <https://downloads.mariadb.com/MariaDB/mariadb-5.5.65/win32-packages/mariadb-5.5.65-win32.msi>`__
 #. PHP Manager for IIS (makes managing PHP on IIS much easier) `here <http://phpmanager.codeplex.com/>`_
 
